@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Morty</h1>
 <h3 align="center">A passionate web developer</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/motea927/motea927/main/code-typing-animate.svg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motea927&label=Profile%20views&color=0e75b6&style=flat" alt="motea927" /> </p>
 
